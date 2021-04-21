@@ -36,6 +36,15 @@ public class No3 {
          
             
         }
+        System.out.println("HASIL Matriks A");
+             for(i=0;i<m;i++){
+                 for(j=0;j<n;j++){
+                     System.out.print(matriks[i][j]+" ");
+                 }
+                 System.out.println();
+             }
+        
+        
         for(i=0;i<m;i++){
             for(j=0;j<n;j++){
                 transpose[j][i]=matriks[i][j];
@@ -69,6 +78,15 @@ public class No3 {
          
             
         }
+        System.out.println("HASIL Matriks B");
+             for(i=0;i<m;i++){
+                 for(j=0;j<n;j++){
+                     System.out.print(matriks[i][j]+" ");
+                 }
+                 System.out.println();
+             }
+        
+        
         for(i=0;i<m;i++){
             for(j=0;j<n;j++){
                 transpose[j][i]=matriks[i][j];

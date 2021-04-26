@@ -13,7 +13,9 @@ import java.util.Scanner;
  */
 public class No3 {
     public static void main(String[] args) {
-        
+        System.out.println("AGIL SAID RAMADON");
+        System.out.println("20090061");
+        System.out.println("UTS");
         int i,j,m,n;
         int matriks[][]=new int[10][10];
         int transpose[][]=new int[10][10];

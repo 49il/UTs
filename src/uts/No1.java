@@ -13,7 +13,7 @@ public class No1 {
     public static void insertionsort(int[]A){
         System.out.println("AGIL SAID RAMADON");
         System.out.println("20090061");
-        System.out.println("UTS")
+        System.out.println("UTS");
         for(int i=1;i<A.length;i++){
             int key=A[i];
             int j=i-1;
